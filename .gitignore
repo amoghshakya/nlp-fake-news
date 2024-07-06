@@ -1,0 +1,6 @@
+# jupyter notebook stuff
+.ipynb_checkpoints/
+.virtual_documents/
+
+# dataset
+liar_dataset/
